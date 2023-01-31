@@ -1,0 +1,12 @@
+a,b=input().split()
+a=int(a)
+b=int(b)
+print(a+b)
+print(a-b)
+print(a*b)
+print(a//b)
+print(a%b)
+c=a/b
+print(format(c,".2f"))
+#print(format((a/b),".2f"))
+#print(round(a/b),2)
